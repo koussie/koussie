@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Djouma
+## 👋 Hi, I’m Djougoune
 
 I’m a final-year Computer Science student at Université Laval, with a strong interest in software engineering and backend development.  
 I currently have hands-on experience building real-world applications through academic projects and professional work in a public-sector environment.
