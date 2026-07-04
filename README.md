@@ -22,6 +22,6 @@ You'll find projects ranging from backend systems and cloud-deployed platforms t
 📫 Let's connect
 
 Feel free to explore my repositories or reach out.
-🌐 koussie.tech · 💼 LinkedIn · 📧 dkdjo@ulaval.ca
+🌐 [koussie.tech](https://koussie.tech) · 💼 [LinkedIn](https://www.linkedin.com/in/koussie-djouma/)  · 📧 dkdjo@ulaval.ca
 
 Open to software engineering opportunities across Canada - available January 2027.
