@@ -27,6 +27,6 @@ You'll find projects ranging from backend systems and cloud-deployed platforms t
 
 ## 📫 Let's connect
 
-💼 [LinkedIn](https://www.linkedin.com/in/koussiedjouma) · 📧 dkdjo@ulaval.ca · djoumadjougoun@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/koussie-djouma) · 📧 dkdjo@ulaval.ca · djoumadjougoun@gmail.com
 
-**Open to software engineering opportunities across Canada - available January 2027.**
+**Open to software engineering opportunities across Canada - available from October 2026.**
